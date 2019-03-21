@@ -1,2 +1,3 @@
 # Student-grade-switch-case-if-selection
-نمایش تنیجه نمره دانش آموزان
+
+Calculates the final number in the students report card.
